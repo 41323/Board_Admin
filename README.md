@@ -11,7 +11,7 @@
 ## :pushpin: Projects
 ### 1. [BookStore PROJECT](https://github.com/Integerous/goQuality)
 >BookStroe PROJECT (팀 프로젝트)  
->개발 기간: 2022.01.17 ~
+>개발 기간: 2023.01.17 ~ 2023.03.02
 >
 >참여 인원: 4명
 >
